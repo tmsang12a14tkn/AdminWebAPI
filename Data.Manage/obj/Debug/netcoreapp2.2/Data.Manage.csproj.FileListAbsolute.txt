@@ -1,0 +1,9 @@
+E:\Working\working\AdminWebAPI\Data.Manage\bin\Debug\netcoreapp2.2\Data.Manage.deps.json
+E:\Working\working\AdminWebAPI\Data.Manage\bin\Debug\netcoreapp2.2\Data.Manage.dll
+E:\Working\working\AdminWebAPI\Data.Manage\bin\Debug\netcoreapp2.2\Data.Manage.pdb
+E:\Working\working\AdminWebAPI\Data.Manage\obj\Debug\netcoreapp2.2\Data.Manage.csproj.CoreCompileInputs.cache
+E:\Working\working\AdminWebAPI\Data.Manage\obj\Debug\netcoreapp2.2\Data.Manage.AssemblyInfoInputs.cache
+E:\Working\working\AdminWebAPI\Data.Manage\obj\Debug\netcoreapp2.2\Data.Manage.AssemblyInfo.cs
+E:\Working\working\AdminWebAPI\Data.Manage\obj\Debug\netcoreapp2.2\Data.Manage.dll
+E:\Working\working\AdminWebAPI\Data.Manage\obj\Debug\netcoreapp2.2\Data.Manage.pdb
+E:\Working\working\AdminWebAPI\Data.Manage\obj\Debug\netcoreapp2.2\Data.Manage.csprojAssemblyReference.cache

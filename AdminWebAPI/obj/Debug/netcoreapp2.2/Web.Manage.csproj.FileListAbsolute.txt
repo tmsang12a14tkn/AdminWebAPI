@@ -1,0 +1,14 @@
+E:\Working\working\AdminWebAPI\AdminWebAPI\bin\Debug\netcoreapp2.2\Web.Manage.deps.json
+E:\Working\working\AdminWebAPI\AdminWebAPI\bin\Debug\netcoreapp2.2\Web.Manage.runtimeconfig.json
+E:\Working\working\AdminWebAPI\AdminWebAPI\bin\Debug\netcoreapp2.2\Web.Manage.runtimeconfig.dev.json
+E:\Working\working\AdminWebAPI\AdminWebAPI\bin\Debug\netcoreapp2.2\Web.Manage.dll
+E:\Working\working\AdminWebAPI\AdminWebAPI\bin\Debug\netcoreapp2.2\Web.Manage.pdb
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.csprojAssemblyReference.cache
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.csproj.CoreCompileInputs.cache
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.RazorAssemblyInfo.cache
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.RazorAssemblyInfo.cs
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.AssemblyInfoInputs.cache
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.AssemblyInfo.cs
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.RazorTargetAssemblyInfo.cache
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.dll
+E:\Working\working\AdminWebAPI\AdminWebAPI\obj\Debug\netcoreapp2.2\Web.Manage.pdb

@@ -1,0 +1,14 @@
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Service.Manage.deps.json
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Service.Manage.dll
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Service.Manage.pdb
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.csproj.CoreCompileInputs.cache
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.AssemblyInfoInputs.cache
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.AssemblyInfo.cs
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.dll
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.pdb
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Data.Manage.dll
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Repo.Manage.dll
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Repo.Manage.pdb
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.csprojAssemblyReference.cache
+E:\Working\working\AdminWebAPI\Service.Manage\bin\Debug\netcoreapp2.2\Data.Manage.pdb
+E:\Working\working\AdminWebAPI\Service.Manage\obj\Debug\netcoreapp2.2\Service.Manage.csproj.CopyComplete

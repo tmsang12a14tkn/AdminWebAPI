@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Working\\working\\AdminWebAPI\\WebAPI.Manage\\WebAPI.Manage.csproj": {}
+  },
+  "projects": {
+    "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj",
+        "projectName": "Data.Manage",
+        "projectPath": "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj",
+        "packagesPath": "C:\\Users\\VITV mien Nam\\.nuget\\packages\\",
+        "outputPath": "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VITV mien Nam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj",
+        "projectName": "Repo.Manage",
+        "projectPath": "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj",
+        "packagesPath": "C:\\Users\\VITV mien Nam\\.nuget\\packages\\",
+        "outputPath": "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VITV mien Nam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj": {
+                "projectPath": "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Working\\working\\AdminWebAPI\\Service.Manage\\Service.Manage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Working\\working\\AdminWebAPI\\Service.Manage\\Service.Manage.csproj",
+        "projectName": "Service.Manage",
+        "projectPath": "E:\\Working\\working\\AdminWebAPI\\Service.Manage\\Service.Manage.csproj",
+        "packagesPath": "C:\\Users\\VITV mien Nam\\.nuget\\packages\\",
+        "outputPath": "E:\\Working\\working\\AdminWebAPI\\Service.Manage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VITV mien Nam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj": {
+                "projectPath": "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj"
+              },
+              "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj": {
+                "projectPath": "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[5.5.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\Working\\working\\AdminWebAPI\\WebAPI.Manage\\WebAPI.Manage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Working\\working\\AdminWebAPI\\WebAPI.Manage\\WebAPI.Manage.csproj",
+        "projectName": "WebAPI.Manage",
+        "projectPath": "E:\\Working\\working\\AdminWebAPI\\WebAPI.Manage\\WebAPI.Manage.csproj",
+        "packagesPath": "C:\\Users\\VITV mien Nam\\.nuget\\packages\\",
+        "outputPath": "E:\\Working\\working\\AdminWebAPI\\WebAPI.Manage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\VITV mien Nam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj": {
+                "projectPath": "E:\\Working\\working\\AdminWebAPI\\Data.Manage\\Data.Manage.csproj"
+              },
+              "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj": {
+                "projectPath": "E:\\Working\\working\\AdminWebAPI\\Repo.Manage\\Repo.Manage.csproj"
+              },
+              "E:\\Working\\working\\AdminWebAPI\\Service.Manage\\Service.Manage.csproj": {
+                "projectPath": "E:\\Working\\working\\AdminWebAPI\\Service.Manage\\Service.Manage.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
